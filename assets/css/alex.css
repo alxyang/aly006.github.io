@@ -1,0 +1,44 @@
+.fullscreen-img{
+    width: 100%;
+    height: 100%;
+}
+
+.brand-header{
+color: #fff;
+text-transform: uppercase;
+font-size: 14px;
+letter-spacing: .1em;
+font-weight: 400;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+#header a.navbar-brand {
+    padding:0;
+    color:#fff;
+    height:60px;
+    line-height:57px;    
+    font-weight:400;
+    text-transform:uppercase;
+    padding-left:15px;
+}
+
+.navbar-inverse{
+  background:#26292E;
+}
+
+.add-margin{
+  margin-top:10px;
+}
+
+.header-padding{
+    margin-top: 15px;
+}
+
+.skills-padding{
+    margin-top: 5px;
+}
+
+.avatar{
+    width:200px;
+}

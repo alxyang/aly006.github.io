@@ -1,0 +1,48 @@
+
+.styleColor,
+ul.bstrap-tabs li.active a,
+ul.bstrap-tabs li.active a i,
+.pagination>li>a, .pagination>li>span, .pagination>li>a:hover,
+a {
+  color:#28c3ab;
+  -webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out;
+}
+a:hover {
+  color:#1f9986;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+ul.pagination li.active a,
+ul.pagination li.active a:hover,
+.styleBackground {
+  background-color:#2A2F36;
+}
+
+.btn.btn-primary {
+  background:#2A2F36;
+  border:rgba(255,255,255,0.5) 2px solid;
+}
+
+.plusNav {
+  background:#2A2F36;
+}
+.plusNav:hover {
+  color:#fff;
+  box-shadow: 0 0 0 2px rgba(255,255,255,0.1), 0 0 10px 10px #2A2F36, 0 0 0 10px rgba(255,255,255,0.5);
+}
+
+ul.bstrap-tabs>li.active>a:hover, 
+ul.bstrap-tabs>li.active>a:focus,
+ul.bstrap-tabs li.active a {
+  color:#2A2F36;
+  border:#2A2F36 1px solid;
+}
+.skill h2,
+#portfolio div.item a:hover i.fa,
+ul.bstrap-tabs li.active a i {
+  color:#2A2F36;
+}
