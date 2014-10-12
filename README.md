@@ -9,3 +9,4 @@ My very modest portfolio website.
 6. actually make your github presentable!
 7.  add social media icons in footer, link to facebook, linkedin, github
 8. refactor list bootstrap media query
+9. add education section
